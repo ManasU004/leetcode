@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ManasU004/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManasU004/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
@@ -38,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -54,6 +57,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
