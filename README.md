@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManasU004/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
