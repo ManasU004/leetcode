@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManasU004/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/ManasU004/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
@@ -57,6 +58,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/ManasU004/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManasU004/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
