@@ -12,6 +12,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ManasU004/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/ManasU004/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManasU004/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManasU004/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ManasU004/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManasU004/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -68,6 +71,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -77,6 +81,7 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ManasU004/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -86,6 +91,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
@@ -112,4 +118,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
