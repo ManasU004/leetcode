@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManasU004/leetcode/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ManasU004/leetcode/tree/master/1927-sum-game) |
@@ -122,4 +123,12 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ManasU004/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ManasU004/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
