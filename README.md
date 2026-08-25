@@ -4,12 +4,14 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ManasU004/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ManasU004/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1927-sum-game](https://github.com/ManasU004/leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManasU004/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ManasU004/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ManasU004/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
@@ -133,4 +135,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManasU004/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ManasU004/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
