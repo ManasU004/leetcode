@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/ManasU004/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManasU004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasU004/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1386-cinema-seat-allocation](https://github.com/ManasU004/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManasU004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasU004/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
