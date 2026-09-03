@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/ManasU004/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasU004/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1386-cinema-seat-allocation](https://github.com/ManasU004/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManasU004/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasU004/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManasU004/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManasU004/leetcode/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasU004/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
