@@ -30,12 +30,14 @@
 | [0141-linked-list-cycle](https://github.com/ManasU004/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManasU004/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ManasU004/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManasU004/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManasU004/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManasU004/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManasU004/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManasU004/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManasU004/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -49,6 +51,7 @@
 | [1563-stone-game-v](https://github.com/ManasU004/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ManasU004/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManasU004/leetcode/tree/master/2029-stone-game-ix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManasU004/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManasU004/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManasU004/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManasU004/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
